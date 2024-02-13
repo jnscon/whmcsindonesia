@@ -1,5 +1,5 @@
 # whmcsindonesia
-Bahasa Indonesia untuk WHMCS 8.6.1 (versi 8 ke atas )
+Bahasa Indonesia untuk WHMCS 8.8.0 (versi 8 ke atas )
 File ini adala file bahasa indonesia untuk digunakan pada whmcs 8 keatas , dalam repository ini menggunakan whmcs versi 8.6.1, namun tetap berfungsi di versi 8 ke atas. 
 Silahkan hapus bahasa lain yang jarang digunakan pada , pada file .php ( agar tidak terlalu banyak bahasa yg membuat bahasa Indonesia tidak muncul pada menu dropdown.)
 Silahkan upload file indonesia.php ke folder/lang
