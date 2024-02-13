@@ -25,8 +25,8 @@ $_LANG['locale'] = "id_ID";
 
 $_LANG['accountinfo'] = "Account Information";
 $_LANG['accountstats'] = "Account Statistics";
-$_LANG['addfunds'] = "Add Funds";
-$_LANG['addfundsamount'] = "Amount to Add";
+$_LANG['addfunds'] = "Tambah Dana";
+$_LANG['addfundsamount'] = "Jumlah yang ingin ditambahkan";
 $_LANG['addfundsmaximum'] = "Maximum Deposit";
 $_LANG['addfundsmaximumbalance'] = "Maximum Balance";
 $_LANG['addfundsmaximumbalanceerror'] = "Maximum Balance amount is";
@@ -197,7 +197,7 @@ $_LANG['clientareahostingnextduedate'] = "Tgl Jatuh Tempo";
 $_LANG['clientareahostingpackage'] = "Package";
 $_LANG['clientareahostingregdate'] = "Registration Date";
 $_LANG['clientarealastname'] = "Last Name";
-$_LANG['clientarealastupdated'] = "Last Updated";
+$_LANG['clientarealastupdated'] = "Update Terakhir";
 $_LANG['clientarealeaveblank'] = "Leave blank unless you want to change your password.";
 $_LANG['clientareamodifydomaincontactinfo'] = "Modify Domain Contact Information";
 $_LANG['clientareamodifynameservers'] = "Modify Nameservers";
@@ -213,7 +213,7 @@ $_LANG['clientareanavlogout'] = "Keluar";
 $_LANG['clientareanavorder'] = "Order Additional Items";
 $_LANG['clientareanavsecurityquestions'] = "Change Security Question";
 $_LANG['clientareanavservices'] = "Layanan Saya";
-$_LANG['clientareanavsupporttickets'] = "My Support Tickets";
+$_LANG['clientareanavsupporttickets'] = "Support Tickets Saya";
 $_LANG['clientareanocontacts'] = "Tidak ada kontak lain";
 $_LANG['clientareapassword'] = "Password";
 $_LANG['clientareapending'] = "Pending";
@@ -518,7 +518,7 @@ $_LANG['networkissuesaffecting'] = "Affecting";
 $_LANG['networkissuesaffectingyourservers'] = "Please Note: Issues affecting servers you have accounts on will be highlighted with a gold background";
 $_LANG['networkissuesdate'] = "Date";
 $_LANG['networkissuesdescription'] = "Read about current and scheduled network outages";
-$_LANG['networkissueslastupdated'] = "Last Updated";
+$_LANG['networkissueslastupdated'] = "Update Terakhir";
 $_LANG['networkissuesnonefound'] = "No network issues found";
 $_LANG['networkissuespriority'] = "Priority";
 $_LANG['networkissuesprioritycritical'] = "Critical";
@@ -551,7 +551,7 @@ $_LANG['orderaddondescription'] = "The following addons are available for this p
 $_LANG['orderavailable'] = "Available";
 $_LANG['orderavailableaddons'] = "Click to view available addons";
 $_LANG['orderbillingcycle'] = "Billing Cycle";
-$_LANG['ordercategories'] = "Categories";
+$_LANG['ordercategories'] = "Kategori";
 $_LANG['orderchangeaddons'] = "Change Addons";
 $_LANG['orderchangeconfig'] = "Change Configurable Options";
 $_LANG['orderchangedomain'] = "Change Domain";
@@ -564,7 +564,7 @@ $_LANG['ordercodenotfound'] = "The promotion code entered does not exist";
 $_LANG['ordercompletebutnotpaid'] = "Attention! Your order has been completed but you have not yet paid for it so it will not be activated.<br />Click on the link below to go to your invoice to make payment.";
 $_LANG['orderconfigpackage'] = "Configurable Options";
 $_LANG['orderconfigure'] = "Konfigurasi";
-$_LANG['orderconfirmation'] = "Order Confirmation";
+$_LANG['orderconfirmation'] = "Konfirmasi Order";
 $_LANG['orderconfirmorder'] = "Confirm Order";
 $_LANG['ordercontinuebutton'] = "Click to Continue >>";
 $_LANG['orderdesc'] = "Description";
@@ -600,7 +600,7 @@ $_LANG['ordererrortransfersecret'] = "You must enter the transfer secret";
 $_LANG['ordererroruserexists'] = "A user already exists with that email address";
 $_LANG['orderexistinguser'] = "I am an existing customer and wish to add this order to my account";
 $_LANG['orderfailed'] = "Order Failed";
-$_LANG['orderfinalinstructions'] = "If you have any questions about your order, please open a support ticket from your client area and quote your order number.";
+$_LANG['orderfinalinstructions'] = "Apabila anda pertanyaan perihal order anda, silahkan submit ticket dan sertakan nomor ordernya.";
 $_LANG['orderfree'] = "FREE!";
 $_LANG['orderfreedomainappliesto'] = "applies to the following extensions only";
 $_LANG['orderfreedomaindescription'] = "on selected payment terms";
@@ -616,7 +616,7 @@ $_LANG['ordernoproducts'] = "No Products Found";
 $_LANG['ordernotes'] = "Notes / Additional Information";
 $_LANG['ordernotesdescription'] = "Anda bisa memasukkan catatan khusus perihal order anda ke staff kami bila ada...";
 $_LANG['ordernowbutton'] = "Order Now";
-$_LANG['ordernumberis'] = "Your Order Number is:";
+$_LANG['ordernumberis'] = "Nomor Order Anda :";
 $_LANG['orderpaymentmethod'] = "Metode Pembayaran";
 $_LANG['orderpaymentterm12month'] = "12 Month Price";
 $_LANG['orderpaymentterm1month'] = "1 Month Price";
@@ -640,7 +640,7 @@ $_LANG['orderpromotioncode'] = "Promotional Code";
 $_LANG['orderpromovalidatebutton'] = "Validasi Kode";
 $_LANG['orderPromoCodePlaceholder'] = "Masukkan kode promo bila ada";
 $_LANG['orderprorata'] = "Pro Rata";
-$_LANG['orderreceived'] = "Thank you for your order. You will receive a confirmation email shortly.";
+$_LANG['orderreceived'] = "Terima kasih order di terima. Anda akan menerima email konfirmasinya.";
 $_LANG['orderregisterdomain'] = "Order domain baru";
 $_LANG['orderregperiod'] = "Registration Period";
 $_LANG['ordersecure'] = "Form order ini menggunakan jalur aman untuk mencegah fraud, IP anda";
@@ -803,7 +803,7 @@ $_LANG['supportticketsticketurgencymedium'] = "Medium";
 $_LANG['supportticketsuploadfailed'] = "Could not upload attachment file";
 $_LANG['supportticketsuploadtoolarge'] = "Uploaded file was too large. Please try uploading a smaller file.";
 $_LANG['supportticketsviewticket'] = "View Ticket";
-$_LANG['supportticketclosedmsg'] = "This ticket is closed.  You may reply to this ticket to reopen it.";
+$_LANG['supportticketclosedmsg'] = "Ticket Status Tertutup.  Anda bisa buka kembali dengan cara reply.";
 $_LANG['telesignincorrectpin'] = "Incorrect Pin!";
 $_LANG['telesigninitiatephone'] = "We can't initiate phone verification for your number. Please contact us.";
 $_LANG['telesigninvalidnumber'] = "Invalid phone number";
@@ -859,7 +859,7 @@ $_LANG['clientareafiles'] = "Attached Files";
 $_LANG['clientareafilesdate'] = "Date Added";
 $_LANG['clientareafilesfilename'] = "Filename";
 
-$_LANG['pwreset'] = "Lost Password Reset";
+$_LANG['pwreset'] = "Reset Lupa Password DISINI";
 $_LANG['pwresetdesc'] = "If you have forgotten your password, you can reset it here. When you fill in your registered email address (and answer your account security question if set), you will be sent instructions on how to reset your password.";
 $_LANG['pwresetemailrequired'] = "Please enter your email address";
 $_LANG['pwresetemailnotfound'] = "No client account was found with the email address you entered";
@@ -973,8 +973,8 @@ $_LANG['vpsnettemplate'] = "Template";
 $_LANG['vpsnetstatus'] = "System Status";
 $_LANG['vpsnetbwusage'] = "Bandwidth Usage";
 
-$_LANG['twitterlatesttweets'] = "Our Latest Tweets";
-$_LANG['twitterfollow'] = "Follow Us on Twitter";
+$_LANG['twitterlatesttweets'] = "Tweet Terbaru Kami";
+$_LANG['twitterfollow'] = "Follow kami di Twitter";
 $_LANG['twitterfollowus'] = "Follow us";
 $_LANG['twitterfollowuswhy'] = "to stay up to date with our latest news &amp; offers";
 
@@ -1178,7 +1178,7 @@ $_LANG['domainmassrenew'] = "Renew Domains";
 # reCAPTCHA
 
 $_LANG['captchatitle'] = "Spam Bot Verification";
-$_LANG['captchaverify'] = "Masukkan kode capctha di bawah ini untuk melanjutkan pencarian domain.";
+$_LANG['captchaverify'] = "Masukkan kode capctha di bawah ini untuk melanjutkan.";
 $_LANG['captchaverifyincorrect'] = "The characters you entered didn't match the image shown. Please try again.";
 $_LANG['googleRecaptchaIncorrect'] = "Please complete the captcha and try again.";
 $_LANG['recaptcha-invalid-site-private-key'] = "An error occurred, please contact support (error code: cap1)";
@@ -1227,8 +1227,8 @@ $_LANG['hello'] = "Halo";
 $_LANG['helloname'] = "Halo, %s!";
 $_LANG['account'] = "Account";
 $_LANG['login'] = "Login";
-$_LANG['register'] = "Register";
-$_LANG['forgotpw'] = "Reset Password?";
+$_LANG['register'] = "Daftar";
+$_LANG['forgotpw'] = "Lupa Password?";
 
 $_LANG['clientareanavccdetails'] = "Credit Card Details";
 
@@ -1311,8 +1311,8 @@ $_LANG['serverstatusheadingtext'] = "Below is a real-time overview of our server
 
 $_LANG['clientareacancelreasonrequired'] = "You must enter a cancellation reason";
 
-$_LANG['addfundsdescription'] = "Add funds to your account with us to avoid lots of small transactions and to automatically take care of any new invoices that are generated.";
-$_LANG['addfundsnonrefundable'] = "* All deposits are non-refundable.";
+$_LANG['addfundsdescription'] = "Tambahkan dana penting untuk mempermudah pembayaran dan transaksi otomatis invoice baru.";
+$_LANG['addfundsnonrefundable'] = "* Deposit tidak dapat di cairkan kembali .";
 
 $_LANG['creditcardexpirydateinvalid'] = "The expiry date must be entered in the format MM/YY and must not be in the past";
 
@@ -1330,7 +1330,7 @@ $_LANG['searchtickets'] = "Enter Ticket # or Subject";
 $_LANG['supportticketspriority'] = "Prioritas";
 $_LANG['supportticketsubmitted'] = "Submitted";
 $_LANG['supportticketscontact'] = "Contact";
-$_LANG['supportticketsticketlastupdated'] = "Last Updated";
+$_LANG['supportticketsticketlastupdated'] = "Update Terakhir";
 
 $_LANG['upgradedowngradepackage'] = "Upgrade/Downgrade";
 $_LANG['upgradedowngradechooseproduct'] = "Choose Product";
@@ -1646,13 +1646,13 @@ $_LANG['transferinadomain'] = "Transfer Domain";
 
 $_LANG['nodomainextensions'] = "There are no Domain Extensions currently configured for purchase";
 
-$_LANG['homebegin'] = "Begin the search for your perfect domain name...";
-$_LANG['howcanwehelp'] = "How can we help today?";
+$_LANG['homebegin'] = "Mulai cari domain terbaik anda...";
+$_LANG['howcanwehelp'] = "Ada yang bisa kami bantu?";
 $_LANG['exampledomain'] = "contoh:domainanda.com";
-$_LANG['buyadomain'] = "Buy A Domain";
+$_LANG['buyadomain'] = "Order Domain";
 $_LANG['orderhosting'] = "Order Hosting";
-$_LANG['makepayment'] = "Make Payment";
-$_LANG['getsupport'] = "Get Support";
+$_LANG['makepayment'] = "Bayar";
+$_LANG['getsupport'] = "Support";
 
 $_LANG['news'] = "News";
 $_LANG['allthelatest'] = "All the latest from";
@@ -1662,7 +1662,7 @@ $_LANG['noannouncements'] = "No announcements to display";
 $_LANG['kbsearchexplain'] = "Have a question? Start your search here.";
 $_LANG['readyforquestions'] = "We're ready and waiting for your questions";
 
-$_LANG['restrictedpage'] = "This page is restricted";
+$_LANG['restrictedpage'] = "Client Area Only";
 $_LANG['enteremail'] = "Enter email";
 
 $_LANG['passwordtips'] = "<strong>Tips for a good password</strong><br />Use both upper and lowercase characters<br />Include at least one symbol (# $ ! % &amp; etc...)<br />Don't use dictionary words";
@@ -1680,8 +1680,8 @@ $_LANG['domainsgotocheckout'] = "Go to checkout";
 $_LANG['domainssearchresults'] = "Search Results";
 $_LANG['domainssuggestions'] = "Suggestions";
 $_LANG['domainsothersuggestions'] = "You might also be interested in the following alternative names";
-$_LANG['domainsmoresuggestions'] = "Give me more suggestions!";
-$_LANG['domainssuggestionswarnings'] = "Domain name suggestions may not always be available. Availability is checked in real-time at the point of adding to the cart.";
+$_LANG['domainsmoresuggestions'] = "Beri kami saran lainnya!";
+$_LANG['domainssuggestionswarnings'] = "Saran domain tidak selalu ready karena tetap berlaku transaksi secara realtime setelah pembayaran di terima";
 $_LANG['disclaimers'] = "Disclaimers";
 $_LANG['tldpricing'] = "TLD Pricing";
 $_LANG['alltldpricing'] = "All TLD Pricing";
@@ -1689,7 +1689,7 @@ $_LANG['alltldpricing'] = "All TLD Pricing";
 $_LANG['quotesdesc'] = "Quotes we have generated for you";
 $_LANG['quotesrejected'] = "Rejected";
 
-$_LANG['ticketsyourhistory'] = "Your ticket history";
+$_LANG['ticketsyourhistory'] = "Log Ticket Anda";
 
 $_LANG['clientareaemaildesc'] = "Your email history with us";
 
@@ -1706,7 +1706,7 @@ $_LANG['supportAndUpdatesExpiredLicense'] = "Your Support & Updates period for t
 $_LANG['supportAndUpdatesRenewalRequired'] = "Support & Updates access needs to be renewed before you can access this download.";
 $_LANG['supportAndUpdatesClickHereToRenew'] = "Click Here to Renew";
 
-$_LANG['pwresetemailneeded'] = "Forgotten your password? Enter your email address below to begin the reset process.";
+$_LANG['pwresetemailneeded'] = "Lupa password anda ? Masukkan email anda untuk proses reset.";
 
 $_LANG['quotestageexpired'] = "Expired";
 
@@ -1968,7 +1968,7 @@ $_LANG['orderForm']['preferredPaymentMethod'] = "Silahkan pilih metode bayar yan
 $_LANG['orderForm']['cardNumber'] = "Card Number";
 $_LANG['orderForm']['cvv'] = "CVV Security Number";
 $_LANG['orderForm']['additionalNotes'] = "Catatan untuk Staff";
-$_LANG['orderForm']['continueToClientArea'] = "Continue To Client Area";
+$_LANG['orderForm']['continueToClientArea'] = "Lanjut ke  Client Area";
 $_LANG['orderForm']['reviewDomainAndAddons'] = "Mohon untuk cek terlebih dahulu sebelum melanjutkan.";
 $_LANG['orderForm']['addToCart'] = "Add to Cart";
 $_LANG['orderForm']['addedToCartRemove'] = "Sudah di tambah(Hapus)";
@@ -2046,8 +2046,8 @@ $_LANG['oauth']['badTwoFactorAuthModule'] = "Bad Two-Factor Auth Module. Please 
 $_LANG['oauth']['permAccessNameAndEmail'] = "Access your name and email address";
 
 $_LANG['errorButTryAgain'] = "An error occurred.  Please try again.";
-$_LANG['emailSent'] = 'Email Sent';
-$_LANG['resendEmail'] = 'Resend Verification Email';
+$_LANG['emailSent'] = 'Email Terkirim';
+$_LANG['resendEmail'] = 'Kirim ulang email verifikasi';
 
 // Markdown Editor Help
 $_LANG['markdown']['title']= "Markdown Guide";
@@ -3356,7 +3356,7 @@ $_LANG['navAccountSecurity'] = "Account Security";
 $_LANG['never'] = "Never";
 
 $_LANG['yourProfile'] = "Profil Anda";
-$_LANG['verifyEmailAddress'] = 'Please check your email and follow the link to verify your email address.';
+$_LANG['verifyEmailAddress'] = 'Cek email anda dan klik link untuk verifikasi valid email anda.';
 
 $_LANG['emailVerification']['title'] = "Email Verification";
 $_LANG['emailVerification']['success'] = "Your email address has been verified";
@@ -3377,25 +3377,25 @@ $_LANG['shopNow'] = "Shop Now";
 $_LANG['clientOwner'] = "Owner";
 
 $_LANG['userManagement']['title'] = "User Management";
-$_LANG['userManagement']['managePermissions'] = "Manage Permissions";
+$_LANG['userManagement']['managePermissions'] = "Kelola Ijin Akses";
 $_LANG['userManagement']['permissions'] = "Permissions";
 $_LANG['userManagement']['usersFound'] = ":count Users Found";
-$_LANG['userManagement']['userDescriptor'] = "Email Address / Last Login";
-$_LANG['userManagement']['lastLogin'] = "Last Login";
+$_LANG['userManagement']['userDescriptor'] = "Email Address / Login Terakhir";
+$_LANG['userManagement']['lastLogin'] = "Login Terakhir";
 $_LANG['userManagement']['actions'] = "Actions";
 $_LANG['userManagement']['emailAddress'] = "Email Address";
-$_LANG['userManagement']['removeAccess'] = "Remove Access";
+$_LANG['userManagement']['removeAccess'] = "Hapus Access";
 $_LANG['userManagement']['pendingInvites'] = "Pending Invites";
 $_LANG['userManagement']['inviteSent'] = "Invite Sent";
 $_LANG['userManagement']['resendInvite'] = "Resend Invite";
 $_LANG['userManagement']['cancelInvite'] = "Cancel Invite";
-$_LANG['userManagement']['accountOwnerPermissionsInfo'] = "Account owners always have full permissions over a client account.";
-$_LANG['userManagement']['inviteNewUser'] = "Invite New User";
+$_LANG['userManagement']['accountOwnerPermissionsInfo'] = "Akun Utama selalu memiliki akses penuh ke user lainnya dalam 1 akses.";
+$_LANG['userManagement']['inviteNewUser'] = "Input user baru";
 $_LANG['userManagement']['inviteEmail'] = "Invite Email";
-$_LANG['userManagement']['inviteNewUserDescription'] = "Inviting a new user allows you to invite a new user to your account. If the invitee already has an existing user account, they will be able to access your account using their existing login credentials. If the user does not yet have a user account, they will be able to create one.";
-$_LANG['userManagement']['allPermissions'] = "All Permissions";
-$_LANG['userManagement']['choosePermissions'] = "Choose Permissions";
-$_LANG['userManagement']['sendInvite'] = "Send Invite";
+$_LANG['userManagement']['inviteNewUserDescription'] = "Input user baru akan mengijinkan user tersebut login ke akun anda. Apabila user sudah ada akun sebelumnya, user tersebut bisa login dengan username dan password yang mereka miliki sebelumnya. Apa bila tidak ada, akan otomatis create sebagai user baru.";
+$_LANG['userManagement']['allPermissions'] = "Semua Akses";
+$_LANG['userManagement']['choosePermissions'] = "Pilih Ijin Akses";
+$_LANG['userManagement']['sendInvite'] = "Submit user baru";
 $_LANG['userManagement']['removeAccessSure'] = "Are you sure you wish to remove this users access?";
 $_LANG['userManagement']['removeAccessInfo'] = "They will no longer be able to access or administer this account.";
 $_LANG['userManagement']['cancelInviteSure'] = "Are you sure you wish to cancel this invite?";
@@ -3636,7 +3636,7 @@ $_LANG['store']['ox']['faq6']['answer'] = "OX Drive is an online storage solutio
 $_LANG['store']['ox']['faq7']['question'] = "What is OX Documents (Productivity)?";
 $_LANG['store']['ox']['faq7']['answer'] = "OX Text, OX Spreadsheet and OX Presentation are the 3 applications within the broader term OX Documents. These applications can be used to create and edit text documents, spreadsheets and presentations online. Create and edit your documents from anywhere using the familiar features and functions from your Office software solution and on all your devices.";
 $_LANG['store']['ox']['faq8']['question'] = "What Languages does OX App Suite support?";
-$_LANG['store']['ox']['faq8']['answer'] = "OX App Suite supports the following languages: English, German, Dansk, Czech, Spanish, French, Italian, Latvian, Hungarian, Dutch, Polish, Portuguese, Russian, Romanian, Slavic, Finnish, Swedish, 中文 简体 , 中文 繁體, 日本語 日本";
+$_LANG['store']['ox']['faq8']['answer'] = "OX App Suite supports the following languages: English, German, Dansk, Czech, Spanish, French, Italian, Latvian, Hungarian, Dutch, Polish, Portuguese, Russian, Romanian, Slavic, Finnish, Swedish, ?? ?? , ?? ??, ??? ??";
 $_LANG['store']['ox']['pricing']['features']['sla'] = "99.9% Uptime SLA";
 $_LANG['store']['ox']['pricing']['features']['antivirus'] = "Premium Anti-Virus & Anti-Spam";
 $_LANG['store']['ox']['pricing']['features']['email'] = "email@your-domain.com";
